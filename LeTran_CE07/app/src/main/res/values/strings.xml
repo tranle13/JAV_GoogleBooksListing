@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">LeTran_CE07</string>
+    <string name="app_name">Google Books Listing </string>
+    <string name="no_connectivity">You are not connected to the Internet</string>
+    <string name="empty_library">Sorry mate&#8230;</string>
+    <string name="imageView">Image Holder</string>
 </resources>
